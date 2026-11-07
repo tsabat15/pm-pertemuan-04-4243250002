@@ -32,6 +32,10 @@ dart run contoh/a9a_future.dart      # contoh dari Bagian A
 
 ## Contoh keluaran
 
+![Keluaran dart run](screenshots/sesi.png)
+
+Teks keluarannya:
+
 ```
 [buku]     [B01] Dasar-Dasar Dart oleh A. Siregar (14 hari)
 [majalah]  [M01] Majalah Teknologi edisi 112 (7 hari)
